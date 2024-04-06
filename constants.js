@@ -1,3 +1,6 @@
+let name="LalitR"
+
+
 const endpoints = {
     'host' : 'https://developer.paytmmoney.com',
     'login_param' : '&state=',
