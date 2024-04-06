@@ -1,3 +1,5 @@
+let name="Sarang"
+
 function ConnectionError(message) {
     this.name = "ConnectionError";
     this.message = message;
